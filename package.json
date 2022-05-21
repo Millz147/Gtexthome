@@ -1,0 +1,16 @@
+{
+  "name": "gtexthome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./assets/scss/default.scss ./assets/css/default.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
